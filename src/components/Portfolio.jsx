@@ -23,7 +23,7 @@ const projects = [
     description: "A porsonal wevsit site featuring menu display, online reservations, and contact details. Fully responsive so visitors can browse and book from any device.",
     img: "/images/3.png",
     live_link: "https://my-portfolio-main-ssln.vercel.app/",
-    github_link: "https://github.com/jihadmiaweb",
+    github_link: "https://github.com/jihadmiaweb/my-portfolio-main",
     technologies: ["HTML", "CSS", "JavaScript", "Tailwind", "React"],
   },
   {
@@ -31,7 +31,7 @@ const projects = [
     name: "Educational Website",
     description: "A full-featured school website showcasing courses, announcements, and an easy contact form. Developed with HTML, CSS, and JavaScript for a clear UI.",
     live_link: "https://online-mdrasha-web-site.vercel.app/",
-    github_link: "https://github.com/jihadmiaweb",
+    github_link: "https://github.com/jihadmiaweb/Online-mdrasha-web-site",
     technologies: ["React", "HTML", "TailwindCSS", "TypeScript", "FramerMotion", "Vite"],
   },
   {
@@ -40,7 +40,7 @@ const projects = [
     description:
       "JobNest is an innovative and user-friendly website designed to help job seekers explore a wide variety of job opportunities across multiple companies.",
     live_link: "https://porsonal-wevsite.vercel.app/",
-    github_link: "https://agency-website-with-react-js.vercel.app/",
+    github_link: "https://github.com/jihadmiaweb/porsonal-wevsite",
     technologies: ["React", "TailwindCSS", "Firebase", "HTML", "Vite", "TypeScript"],
   },
 
