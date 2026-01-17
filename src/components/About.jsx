@@ -105,7 +105,7 @@ const About = () => {
           </h2>
 
           <p className="mt-6 text-lg text-gray-300 leading-relaxed">
-            I am a <b>Full Stack Developer</b> specializing in creating robust, scalable, and visually compelling web applications. I focus on the MERN stack (MongoDB, Express, React, Node.js) to deliver end-to-end solutions.
+            I am a <b>Full Stack Developers</b> specializing in creating robust, scalable, and visually compelling web applications. I focus on the MERN stack (MongoDB, Express, React, Node.js) to deliver end-to-end solutions.
           </p>
 
           <p className="mt-4 text-gray-400 leading-relaxed text-base">
